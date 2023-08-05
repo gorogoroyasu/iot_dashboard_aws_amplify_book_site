@@ -1,6 +1,6 @@
 # AWS Amplifyで作るIoTバックエンド
 
-本リポジトリは技術書典13で頒布した技術書「AWs Amplifyで作るIoTバックエンド」のサンプルWebアプリケーション＆サポートページです。
+本リポジトリは技術書典13で頒布した技術書「AWS Amplifyで作るIoTバックエンド」のサンプルWebアプリケーション＆サポートページです。
 
 ![カバー](https://user-images.githubusercontent.com/8074640/188288417-c07beb6a-1dfd-470f-b981-6b92ec05771f.png)
 ![ダッシュボード](https://user-images.githubusercontent.com/8074640/187302960-030ef24f-2df7-419b-8aac-c7a44828e7a4.png)
